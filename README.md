@@ -10,6 +10,7 @@ git push -u origin main
 <h1> push an existing repository from the command line</h1>
 
 ```
+git remote add origin (file name)
 git branch -M main
 git push -u origin main
 ```
