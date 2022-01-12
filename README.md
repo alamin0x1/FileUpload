@@ -1,6 +1,6 @@
 <h1> create a new repository on the command line</h1>
+
 ```
-echo "# OTP-VERIFY" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
